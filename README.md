@@ -9,6 +9,9 @@ Projeto desenvolvido para a formação Iniciante em Programação G8 - ONE.
 Jogo para advinhar o número secreto.
 </p>
 
+![image](https://github.com/user-attachments/assets/27d9fb39-eb77-46cb-b485-d8a4062c9461)
+
+
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Sorteia um número aleatório.
